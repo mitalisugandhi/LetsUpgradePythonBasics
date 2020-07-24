@@ -1,0 +1,17 @@
+Day 1: Assignment Answers ->
+20 July 2020.
+____________________________________________________________________________
+
+Q1. What is python? What are the ways to python on your pc?
+----->
+A Python is an Object-Oriented Programming Language, Open source, and very efficient language for any coding or programming beginners to get started with!!
+
+Ways to install on pc or system:-
+a) We can download it from the official website www.python.org (.exe file)
+b) We can download it from Anaconda Setup. (Default integrated)
+_____________________________________________________________________________
+
+Q2. What are the code Environments? Types?
+----->
+It is for editing, compiling, running, Testing the test cases of written code, Also to organize all the project-related files in one location!!
+There are various editors available for this like Spyder, Jupyter Notebook.
