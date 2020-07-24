@@ -1,0 +1,18 @@
+Question 1 :
+Whatever you have seen or learned in today’s session you need to write it down in Jupyter
+notebook.
+Answer ----->
+
+12:19 INTRODUCING PYTHON BATCH 6 TRAINER
+14:22  DAY 2 AGENDA
+14:38 PYTHON BASIC SYNTAX
+39:53  PYTHON VARIABLES AND ASSIGNMENT STATEMENT
+57:07  PYTHON OPERATORS
+1:41:50 DAY 2 ASSIGNMENT 
+1:46:35  HOW TO UPLOAD ASSIGNMENTS IN GIT HUB (DEMO)
+
+Back Slash
+Triple Quotes
+String inside the quotes
+Escape Sequence of String
+Formatted Output
